@@ -1,2 +1,2 @@
 # chess-bot
-A basic, artificially intelligent chess player.
+An artificially intelligent chess player.
